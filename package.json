@@ -1,26 +1,28 @@
 {
-    "name": "react-digital-clock",
-    "version": "0.1.0",
+    "name": "digital-clock",
+    "version": "1.1.0",
     "description": "Simple digital clock implementation in react.",
     "main": "./lib/index.js",
     "keywords": [
         "react",
         "date",
+        "jkg",
         "time",
         "clock",
         "timezones",
-        "digital-clock"
+        "digital-clock",
+        "digitalclock"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/abdulkhaderp/react-digital-clock.git"
+        "url": "https://github.com/GohilJaykumar/digital-clock.git"
     },
     "author": "Abdul Khader P <abdulkhaderp@gmail.com>",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
     },
-    "homepage": "https://github.com/abdulkhaderp/react-digital-clock",
+    "homepage": "https://github.com/GohilJaykumar/digital-clock",
     "peerDependencies": {
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
