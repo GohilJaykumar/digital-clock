@@ -1,5 +1,5 @@
 {
-    "name": "@jkg/digital-clock",
+    "name": "jkg-digital-clock",
     "version": "1.2.0",
     "description": "Simple digital clock implementation in react.",
     "main": "./lib/index.js",
